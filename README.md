@@ -42,7 +42,7 @@ Follow these steps to use Risu2Silly:
 
 ## License
 
-Risu2Silly is licensed under the [WTFPL (Do What the Fuck You Want to Public License)](LICENSE.md). You are free to use, modify, and distribute the code as you see fit.
+Risu2Silly is licensed under the [WTFPL (Do What the Fuck You Want to Public License)](license.md). You are free to use, modify, and distribute the code as you see fit.
 
 ## Support
 
